@@ -1,2 +1,2 @@
 #!qer
-print("asd"
+print("asd&")
