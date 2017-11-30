@@ -1,2 +1,3 @@
 #!qer
-print("asd&")
+print()
+#qwerc
